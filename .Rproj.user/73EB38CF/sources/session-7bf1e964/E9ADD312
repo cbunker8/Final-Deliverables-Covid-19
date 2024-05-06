@@ -1,9 +1,9 @@
 {
     "id": "E9ADD312",
-    "path": "~/Documents/Final-Deliverables-Covid-19/draft_storyboard_tabs.Rmd",
-    "project_path": "draft_storyboard_tabs.Rmd",
+    "path": "~/Documents/Final-Deliverables-Covid-19/Index.Rmd",
+    "project_path": "Index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1057665905",
     "contents": "",
     "dirty": false,
     "created": 1714588598601.0,
@@ -12,15 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,0",
-        "scrollLine": "0"
+        "cursorPosition": "1,40",
+        "scrollLine": "0",
+        "last_setup_crc32": "7bf1e96441dfa171"
     },
     "folds": "",
-    "lastKnownWriteTime": 1715012430,
+    "lastKnownWriteTime": 1715015442,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1715012430109,
+    "last_content_update": 1715015442095,
     "read_only": false,
     "read_only_alternatives": []
 }
