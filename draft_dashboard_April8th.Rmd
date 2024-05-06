@@ -1,0 +1,46 @@
+---
+title: "690V Final Deliverables \n Breakdown of Covid-19 Global Pandemic"
+bibliography: final_bib.bib
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard) # always
+```
+
+## Intro {.sidebar}
+
+Preparing the dashboard based on the instructions given at @magallanes_reyes_data_2022, and @Chris_Bunker_2022.
+
+### References
+<div id="refs"></div>
+
+## Column {data-width="450"}
+
+### Breakdown of GDP by Country: a bar plot <!-- a title for plot -->
+```{r}
+readRDS("del1Draft.rds")
+```
+
+### Deaths Reported for Covid-19: a histogram
+
+```{r}
+readRDS("del2Draft.rds")
+```
+
+## Column {data-width="550"}
+
+### Relationship Between Median Age and Covid Cases by Country: \n a scatterplot 
+
+```{r}
+options(scipen = 999)
+readRDS("delDraft.rds")
+```
+
+### Deaths from Covid In Central and South America: a chloropeth
+
+```{r}
+readRDS("del4Draft.rds")
+```
