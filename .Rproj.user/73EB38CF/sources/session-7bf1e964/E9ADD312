@@ -1,7 +1,7 @@
 {
     "id": "E9ADD312",
-    "path": "~/Documents/Final-Deliverables-Covid-19/Index.Rmd",
-    "project_path": "Index.Rmd",
+    "path": "~/Documents/Final-Deliverables-Covid-19/index.Rmd",
+    "project_path": "index.Rmd",
     "type": "r_markdown",
     "hash": "1057665905",
     "contents": "",
@@ -17,11 +17,11 @@
         "last_setup_crc32": "7bf1e96441dfa171"
     },
     "folds": "",
-    "lastKnownWriteTime": 1715015442,
+    "lastKnownWriteTime": 1715016046,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1715015442095,
+    "last_content_update": 1715016046522,
     "read_only": false,
     "read_only_alternatives": []
 }
